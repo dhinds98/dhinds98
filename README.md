@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dejaney Hinds
+- 👀 I’m interested in advancing my knowledge in computer science technologies 
+- 🌱 I’m currently learning coding, Javascript algorithms, and information security concepts
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: dhinds515@icloud.com
